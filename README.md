@@ -35,6 +35,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lichess Rapid League Statistics](https://rochadeeuropa.de/wp-content/uploads/rapid/lichess-rapid-league-stats.html) - Results and team and player leaderboards across Rapid League divisions and editions.
 - [Lichess Streamer Arena Statistics](https://rochadeeuropa.de/wp-content/uploads/streamer/lichess-streamer-arena-stats.html) - Tournament history and player and team leaderboards for streamer competitions.
 - [Lichess4545](https://www.lichess4545.com/team4545) - Team league with one scheduled 45+45 game per player each week on Lichess.
+- [LMAO Standings](https://lichessbotacc.github.io/LMAO-Points) - Combined team and player standings, cumulative points, and statistics across LMAO Day and Night tournaments on Lichess.
 
 ## Analysis and Training
 
