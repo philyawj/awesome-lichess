@@ -11,6 +11,9 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Analysis and Training](#analysis-and-training)
 - [Streaming](#streaming)
 - [Chess Engines and Bots](#chess-engines-and-bots)
+  - [Guides and Discovery](#guides-and-discovery)
+  - [Bot Frameworks](#bot-frameworks)
+  - [Engines and Models](#engines-and-models)
 - [Development and Data](#development-and-data)
 
 ## Apps and Clients
@@ -41,12 +44,20 @@ A community-curated directory of tools, projects, guides, articles, and resource
 
 ## Chess Engines and Bots
 
+### Guides and Discovery
+
+- [How to Create a Lichess Bot](https://lichess.org/@/thibault/blog/how-to-create-a-lichess-bot/FuKyvDuB) - Thibault's guide to connecting your own engine or chess program through lichess-bot or the Bot API.
+- [Lichess Online Bots](https://lichess.org/player/bots) - Find featured and online community bots to challenge, with descriptions of their engines and playing styles.
+
+### Bot Frameworks
+
+- [lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - Connect chess engines to Lichess BOT accounts to play games automatically.
+
+### Engines and Models
+
 - [Allie](https://github.com/y0mingzhang/allie) - Model trained on human games, powering [AllieTheChessBot](https://lichess.org/@/AllieTheChessBot), which adapts its play to its opponent's rating.
 - [Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - Chess variant engine used by [VariantsBot](https://lichess.org/@/VariantsBot) for playing non-standard variants on Lichess.
-- [How to Create a Lichess Bot](https://lichess.org/@/thibault/blog/how-to-create-a-lichess-bot/FuKyvDuB) - Thibault's guide to connecting your own engine or chess program through lichess-bot or the Bot API.
 - [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - Neural-network chess engine powering Lichess odds bots such as [LeelaQueenOdds](https://lichess.org/@/LeelaQueenOdds), which plays with a queen handicap.
-- [Lichess Online Bots](https://lichess.org/player/bots) - Find featured and online community bots to challenge, with descriptions of their engines and playing styles.
-- [lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - Connect chess engines to Lichess BOT accounts to play games automatically.
 - [Lynx](https://github.com/lynx-chess/Lynx) - C# chess engine with handcrafted evaluation, available to play as [Lynx_BOT](https://lichess.org/@/Lynx_BOT).
 - [Maia Chess](https://github.com/CSSLab/maia-chess) - Models trained to imitate human play at different rating levels, powering [maia1](https://lichess.org/@/maia1), [maia5](https://lichess.org/@/maia5), and [maia9](https://lichess.org/@/maia9).
 - [Pandafish](https://github.com/philyawj/Pandafish) - Minimal Go chess engine with documented setup for playing on Lichess through lichess-bot.
