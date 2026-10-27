@@ -29,6 +29,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 
 - [Lichess Bullet League Statistics](https://rochadeeuropa.de/wp-content/uploads/bullet/lichess-bullet-league-stats.html) - Tournament history and team and player statistics for the Lichess Bullet League.
 - [Lichess Bundesliga Statistics](https://rochadeeuropa.de/wp-content/uploads/bundesliga/lichess-bundesliga-stats.html) - Results and team and player leaderboards across Bundesliga divisions and editions.
+- [Lichess GP Sacrifice Statistics](https://piratesboys.github.io/Lichess-GP-Sacrifice/stats.html) - Cumulative team and player rankings for the Lichess GP Sacrifice tournament.
 - [Lichess Ladders](https://lichessladders.com) - Challenge-based ladders for classical, correspondence, and other formats on Lichess.
 - [Lichess Leagues and Streamer Battles](https://lichess.org/page/leagues-and-battles) - Official introduction to recurring community leagues and team battles, with participation and statistics links.
 - [Lichess Mega Battle Statistics](https://rochadeeuropa.de/wp-content/uploads/mega/lichess-mega-battle-stats.html) - Tournament history and team and player statistics for the Lichess Mega Battle.
@@ -36,7 +37,6 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lichess Streamer Arena Statistics](https://rochadeeuropa.de/wp-content/uploads/streamer/lichess-streamer-arena-stats.html) - Tournament history and player and team leaderboards for streamer competitions.
 - [Lichess4545](https://www.lichess4545.com/team4545) - Team league with one scheduled 45+45 game per player each week on Lichess.
 - [LMAO Standings](https://lichessbotacc.github.io/LMAO-Points) - Combined team and player standings, cumulative points, and statistics across LMAO Day and Night tournaments on Lichess.
-- [Lichess GP Sacrifice Statistics](https://piratesboys.github.io/Lichess-GP-Sacrifice/stats.html) - Statistics for the Lichess GP Sacrifice tournament.
 
 ## Analysis and Training
 
