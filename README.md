@@ -36,6 +36,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lichess Streamer Arena Statistics](https://rochadeeuropa.de/wp-content/uploads/streamer/lichess-streamer-arena-stats.html) - Tournament history and player and team leaderboards for streamer competitions.
 - [Lichess4545](https://www.lichess4545.com/team4545) - Team league with one scheduled 45+45 game per player each week on Lichess.
 - [LMAO Standings](https://lichessbotacc.github.io/LMAO-Points) - Combined team and player standings, cumulative points, and statistics across LMAO Day and Night tournaments on Lichess.
+- [Lichess GP Sacrifice Statistics](https://piratesboys.github.io/Lichess-GP-Sacrifice/stats.html) - Statistics for the Lichess GP Sacrifice tournament.
 
 ## Analysis and Training
 
