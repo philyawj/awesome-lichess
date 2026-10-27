@@ -7,6 +7,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Contents
 
 - [Apps and Clients](#apps-and-clients)
+- [Extensions and Customization](#extensions-and-customization)
 - [Community Events and Tournaments](#community-events-and-tournaments)
 - [Analysis and Training](#analysis-and-training)
 - [Streaming](#streaming)
@@ -19,6 +20,10 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Apps and Clients
 
 - [Lichess Mobile App](https://lichess.org/app) - Official mobile app information and downloads for playing, solving puzzles, and analyzing games.
+
+## Extensions and Customization
+
+- [LiChess Tools](https://siderite.dev/LiChessTools) - Browser extension adding study and analysis tools, opening practice, PGN editing, and interface customization to Lichess.
 
 ## Community Events and Tournaments
 
