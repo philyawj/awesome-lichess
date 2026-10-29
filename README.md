@@ -41,6 +41,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Analysis and Training
 
 - [Lichess Coaches](https://lichess.org/coach) - Directory of titled chess coaches, with profiles and filters for language and country.
+- [Lichess Profile](https://lichess.erhan.dev) - Shareable player statistics from Lichess games, including results by time control, rating peaks, openings, streaks, and strongest opponents beaten.
 - [Lichess Studies](https://lichess.org/study) - Browse and create annotated games, opening repertoires, and interactive lessons with collaborative analysis.
 - [Listudy](https://listudy.org/en) - Practice opening repertoires with spaced repetition, including repertoires imported from Lichess studies.
 - [OpeningTree](https://www.openingtree.com) - Explore a player's opening repertoire and results using their Lichess games.
