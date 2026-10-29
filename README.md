@@ -70,6 +70,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lynx](https://github.com/lynx-chess/Lynx) - C# chess engine with handcrafted evaluation, available to play as [Lynx_BOT](https://lichess.org/@/Lynx_BOT).
 - [Maia Chess](https://github.com/CSSLab/maia-chess) - Models trained to imitate human play at different rating levels, powering [maia1](https://lichess.org/@/maia1), [maia5](https://lichess.org/@/maia5), and [maia9](https://lichess.org/@/maia9).
 - [Pandafish](https://github.com/philyawj/Pandafish) - Minimal Go chess engine with documented setup for playing on Lichess through lichess-bot.
+- [Sacrifice-engine](https://github.com/piratesboys/Sacrifice-Engine-) - a Rust chess engine with a UCI interface that inspired by Mikhail Tal’s attacking style, the greatest attacker in chess history.
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - Open-source chess engine used for Lichess analysis and available for running your own bots.
 
 ## Development and Data
