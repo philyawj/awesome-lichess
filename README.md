@@ -40,6 +40,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 
 ## Analysis and Training
 
+- [Explain My Chess](https://explainmychess.com) - Free in-browser game review that loads public games by Lichess username or PGN, runs Stockfish on your device, and marks the key moments; an optional paid plan adds written explanations.
 - [Lichess Coaches](https://lichess.org/coach) - Directory of titled chess coaches, with profiles and filters for language and country.
 - [Lichess Profile](https://lichess.erhan.dev) - Shareable player statistics from Lichess games, including results by time control, rating peaks, openings, streaks, and strongest opponents beaten, with [MIT-licensed source code](https://github.com/erhan/lichess-wrapped).
 - [Lichess Studies](https://lichess.org/study) - Browse and create annotated games, opening repertoires, and interactive lessons with collaborative analysis.
