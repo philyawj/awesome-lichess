@@ -44,6 +44,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lichess Profile](https://lichess.erhan.dev) - Shareable player statistics from Lichess games, including results by time control, rating peaks, openings, streaks, and strongest opponents beaten, with [MIT-licensed source code](https://github.com/erhan/lichess-wrapped).
 - [Lichess Studies](https://lichess.org/study) - Browse and create annotated games, opening repertoires, and interactive lessons with collaborative analysis.
 - [Listudy](https://listudy.org/en) - Practice opening repertoires with spaced repetition, including repertoires imported from Lichess studies.
+- [Open Chess](https://jupiutrera.github.io/open-chess/) - Free trainer for web and Android that imports your Lichess games for on-device Stockfish review and builds on Lichess puzzles, opening names, explorer and chessground, with [GPL-3.0 source code](https://github.com/jupiutrera/open-chess).
 - [OpeningTree](https://www.openingtree.com) - Explore a player's opening repertoire and results using their Lichess games.
 
 ## Streaming
