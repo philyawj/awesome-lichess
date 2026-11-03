@@ -57,6 +57,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ### Guides and Discovery
 
 - [How to Create a Lichess Bot](https://lichess.org/@/thibault/blog/how-to-create-a-lichess-bot/FuKyvDuB) - Thibault's guide to connecting your own engine or chess program through lichess-bot or the Bot API.
+- [How to Create and Host Your Own Lichess Bot](https://lichess.org/@/Hectozar/blog/how-to-create-and-host-your-own-lichess-bot/S4zZcdPE) - Tutorial covering Lichess bot account setup, Python and lichess-bot options, and ways to host a bot.
 - [Lichess Online Bots](https://lichess.org/player/bots) - Find featured and online community bots to challenge, with descriptions of their engines and playing styles.
 - [The Secret History of Chess Engines](https://lichess.org/@/RuyLopez1000/blog/the-secret-history-of-chess-engines/Dr2ItuZw) - Historical essay on chess programs and engines, from early AI research and Turochamp through Mac Hack and Deep Blue, with a bibliography of sources.
 
