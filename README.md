@@ -74,6 +74,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Maia Chess](https://github.com/CSSLab/maia-chess) - Models trained to imitate human play at different rating levels, powering [maia1](https://lichess.org/@/maia1), [maia5](https://lichess.org/@/maia5), and [maia9](https://lichess.org/@/maia9).
 - [Pandafish](https://github.com/philyawj/Pandafish) - Minimal Go chess engine with documented setup for playing on Lichess through lichess-bot.
 - [Sacrifice-engine](https://github.com/piratesboys/Sacrifice-Engine-) - a Rust chess engine with a UCI interface that inspired by Mikhail Tal’s attacking style, the greatest attacker in chess history.
+- [Sunfish](https://github.com/thomasahle/sunfish) - Compact Python chess engine with a UCI interface, playable on Lichess as [sunfish-engine](https://lichess.org/@/sunfish-engine) and [sunfish-nnue-engine](https://lichess.org/@/sunfish-nnue-engine).
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - Open-source chess engine used for Lichess analysis and available for running your own bots.
 
 ## Development and Data
