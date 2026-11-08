@@ -68,6 +68,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ### Engines and Models
 
 - [Allie](https://github.com/y0mingzhang/allie) - Model trained on human games, powering [AllieTheChessBot](https://lichess.org/@/AllieTheChessBot), which adapts its play to its opponent's rating.
+- [BlunderFish](https://github.com/piratesboys/BlunderFish) This is the worst chess engine in the world, which runs on the [Blunder-Engine](https://lichess.org/@/Blunder-Engine) account.
 - [Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - Chess variant engine used by [VariantsBot](https://lichess.org/@/VariantsBot) for playing non-standard variants on Lichess.
 - [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - Neural-network chess engine powering Lichess odds bots such as [LeelaQueenOdds](https://lichess.org/@/LeelaQueenOdds), which plays with a queen handicap.
 - [Lynx](https://github.com/lynx-chess/Lynx) - C# chess engine with handcrafted evaluation, available to play as [Lynx_BOT](https://lichess.org/@/Lynx_BOT).
