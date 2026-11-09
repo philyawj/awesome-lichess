@@ -81,6 +81,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Development and Data
 
 - [Chess Programming Wiki](https://chessprogramming.org) - Community-maintained reference on chess engine programming, from board representation and search to evaluation and testing, hosted by Lichess.
+- [How I Started Building Lichess](https://lichess.org/@/thibault/blog/how-i-started-building-lichess/JwtcE0KO) - Thibault's account of how he began building Lichess as a hobby project.
 - [Lichess API](https://lichess.org/api) - Official documentation for building integrations with games, accounts, tournaments, and bots.
 - [Lichess Open Database](https://database.lichess.org) - Downloadable games, puzzles, and engine evaluations for research and building chess tools.
 
