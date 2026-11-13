@@ -84,6 +84,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [How I Started Building Lichess](https://lichess.org/@/thibault/blog/how-i-started-building-lichess/JwtcE0KO) - Thibault's account of how he began building Lichess as a hobby project.
 - [Lichess API](https://lichess.org/api) - Official documentation for building integrations with games, accounts, tournaments, and bots.
 - [Lichess Open Database](https://database.lichess.org) - Downloadable games, puzzles, and engine evaluations for research and building chess tools.
+- [Lichess Papers](https://github.com/lichess-org/papers) - Bibliography of papers that use Lichess data, study Lichess, or cite Lichess.
 
 ## Contributing
 
