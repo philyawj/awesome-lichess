@@ -4,14 +4,14 @@ about: Report a broken link, outdated entry, or problem with the list.
 title: "Fix: "
 ---
 
-## Affected entry or page
+## What needs attention?
 
-Name and URL:
+Link or entry:
 
-## Problem
+## What is the problem?
 
-Describe what is broken, inaccurate, outdated, or difficult to find. Include evidence where helpful.
+Describe what is broken or could be improved.
 
-## Suggested improvement
+## Suggested fix (optional)
 
-If you know a replacement link or better description, include it here.
+Add a replacement link or suggested change if you have one.

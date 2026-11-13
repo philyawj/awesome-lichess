@@ -6,22 +6,8 @@ title: "Suggest: "
 
 ## Resource
 
-Name and canonical URL:
+Name and link:
 
-## Why recommend it?
+## Why might it be useful?
 
-How does it relate to Lichess, who does it help, and what makes it worth including? Describe your experience using, reading, or evaluating it.
-
-## Suggested topic
-
-Where would someone look for this resource?
-
-## Additional context
-
-Mention any costs, access restrictions, or maintenance concerns.
-
-## Checklist
-
-- [ ] I have read the [contribution guidelines](https://github.com/philyawj/awesome-lichess/blob/main/CONTRIBUTING.md).
-- [ ] I searched the list and existing issues and pull requests for duplicates.
-- [ ] I checked the link and personally evaluated the resource.
+Briefly describe its connection to Lichess. Mention any costs or access limits if relevant.
