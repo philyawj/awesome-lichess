@@ -7,6 +7,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Contents
 
 - [Apps and Clients](#apps-and-clients)
+- [Blogs](#blogs)
 - [Extensions and Customization](#extensions-and-customization)
 - [Community Events and Tournaments](#community-events-and-tournaments)
 - [Analysis and Training](#analysis-and-training)
@@ -20,6 +21,10 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Apps and Clients
 
 - [Lichess Mobile App](https://lichess.org/app) - Official mobile app information and downloads for playing, solving puzzles, and analyzing games.
+
+## Blogs
+
+- [ThreeSadPandas](https://threesadpandas.com/) - Chess blog featuring Lichess game analyses, bot projects, the [Panda Nation team](https://lichess.org/team/panda-nation), and reflections on chess improvement.
 
 ## Extensions and Customization
 
