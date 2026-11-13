@@ -25,6 +25,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Blogs
 
 - [ThreeSadPandas](https://threesadpandas.com/) - Chess blog featuring Lichess game analyses, bot projects, the [Panda Nation team](https://lichess.org/team/panda-nation), and reflections on chess improvement.
+- [WFM Fruzsina Szente-Varga](https://szefru.com/) - Chess improvement blog covering game analysis, training, and chess psychology, with posts also published on Lichess.
 
 ## Extensions and Customization
 
