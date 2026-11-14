@@ -7,6 +7,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Contents
 
 - [Apps and Clients](#apps-and-clients)
+- [Blogs](#blogs)
 - [Extensions and Customization](#extensions-and-customization)
 - [Community Events and Tournaments](#community-events-and-tournaments)
 - [Analysis and Training](#analysis-and-training)
@@ -20,6 +21,11 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Apps and Clients
 
 - [Lichess Mobile App](https://lichess.org/app) - Official mobile app information and downloads for playing, solving puzzles, and analyzing games.
+
+## Blogs
+
+- [ThreeSadPandas](https://threesadpandas.com/) - Chess blog featuring Lichess game analyses, bot projects, the [Panda Nation team](https://lichess.org/team/panda-nation), and reflections on chess improvement.
+- [WFM Fruzsina Szente-Varga](https://szefru.com/) - Chess improvement blog covering game analysis, training, and chess psychology, with posts also published on Lichess.
 
 ## Extensions and Customization
 
@@ -44,6 +50,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lichess Coaches](https://lichess.org/coach) - Directory of titled chess coaches, with profiles and filters for language and country.
 - [Lichess Profile](https://lichess.erhan.dev) - Shareable player statistics from Lichess games, including results by time control, rating peaks, openings, streaks, and strongest opponents beaten, with [MIT-licensed source code](https://github.com/erhan/lichess-wrapped).
 - [Lichess Studies](https://lichess.org/study) - Browse and create annotated games, opening repertoires, and interactive lessons with collaborative analysis.
+- [Lichess Repertoire Builder](https://github.com/MisterMiles/lichess-repertoire-builder) - Builds opening repertoires for White or Black from Lichess game statistics and Stockfish evaluations. Free and open source (GPL 3.0). Command-line tool with a Mac setup guide.
 - [Listudy](https://listudy.org/en) - Practice opening repertoires with spaced repetition, including repertoires imported from Lichess studies.
 - [Open Chess](https://jupiutrera.github.io/open-chess/) - Free trainer for web and Android that imports your Lichess games for on-device Stockfish review and builds on Lichess puzzles, opening names, explorer and chessground, with [GPL-3.0 source code](https://github.com/jupiutrera/open-chess).
 - [OpeningTree](https://www.openingtree.com) - Explore a player's opening repertoire and results using their Lichess games.
@@ -73,7 +80,8 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) - Neural-network chess engine powering Lichess odds bots such as [LeelaQueenOdds](https://lichess.org/@/LeelaQueenOdds), which plays with a queen handicap.
 - [Lynx](https://github.com/lynx-chess/Lynx) - C# chess engine with handcrafted evaluation, available to play as [Lynx_BOT](https://lichess.org/@/Lynx_BOT).
 - [Maia Chess](https://github.com/CSSLab/maia-chess) - Models trained to imitate human play at different rating levels, powering [maia1](https://lichess.org/@/maia1), [maia5](https://lichess.org/@/maia5), and [maia9](https://lichess.org/@/maia9).
-- [Pandafish](https://github.com/philyawj/Pandafish) - Minimal Go chess engine with documented setup for playing on Lichess through lichess-bot.
+- [Pandafish](https://github.com/philyawj/Pandafish) - Minimal Go chess engine with a documented lichess-bot setup, playable on Lichess as [GoPandaFish](https://lichess.org/@/GoPandaFish).
+- [Psion Chess](https://github.com/vdbergh/psion-chess) - DOSBox-based UCI adapter for the 1985 Psion Chess program, playable on Lichess as [psion-chess](https://lichess.org/@/psion-chess). Release packages include the original program for non-commercial use.
 - [Sacrifice-engine](https://github.com/piratesboys/Sacrifice-Engine-) - a Rust chess engine with a UCI interface that inspired by Mikhail Tal’s attacking style, the greatest attacker in chess history.
 - [Sunfish](https://github.com/thomasahle/sunfish) - Compact Python chess engine with a UCI interface, playable on Lichess as [sunfish-engine](https://lichess.org/@/sunfish-engine) and [sunfish-nnue-engine](https://lichess.org/@/sunfish-nnue-engine).
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - Open-source chess engine used for Lichess analysis and available for running your own bots.
@@ -81,8 +89,10 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Development and Data
 
 - [Chess Programming Wiki](https://chessprogramming.org) - Community-maintained reference on chess engine programming, from board representation and search to evaluation and testing, hosted by Lichess.
+- [How I Started Building Lichess](https://lichess.org/@/thibault/blog/how-i-started-building-lichess/JwtcE0KO) - Thibault's account of how he began building Lichess as a hobby project.
 - [Lichess API](https://lichess.org/api) - Official documentation for building integrations with games, accounts, tournaments, and bots.
 - [Lichess Open Database](https://database.lichess.org) - Downloadable games, puzzles, and engine evaluations for research and building chess tools.
+- [Lichess Papers](https://github.com/lichess-org/papers) - Bibliography of papers that use Lichess data, study Lichess, or cite Lichess.
 
 ## Contributing
 
