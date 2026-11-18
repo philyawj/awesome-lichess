@@ -29,6 +29,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 
 ## Extensions and Customization
 
+- [ChessPivot](https://chromewebstore.google.com/detail/kmcnojmaljnfpbddhaenafinjgmghmfd) - Chrome extension adding a button to finished Lichess games that opens them in a free review grading each move and explaining the turning point, with no account needed; an optional paid plan adds mistake tracking across your games.
 - [LiChess Tools](https://siderite.dev/LiChessTools) - Browser extension adding study and analysis tools, opening practice, PGN editing, and interface customization to Lichess.
 
 ## Community Events and Tournaments
