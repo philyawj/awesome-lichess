@@ -20,6 +20,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 
 ## Apps and Clients
 
+- [Chebble](https://chebble.com) - A satisfying and relaxing chess interface, based around a physically simulated chess board with sounds generated in real time using modal synthesis. Free; log in with Lichess to play.
 - [Lichess Mobile App](https://lichess.org/app) - Official mobile app information and downloads for playing, solving puzzles, and analyzing games.
 
 ## Blogs
